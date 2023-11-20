@@ -4,3 +4,7 @@ Qué tal??
 Soy Jorufer y estoy aprendiendo GIT.
 
 Ahora voy a hacer un tercer commit porque me da la gana jajaja!!!
+
+Ya estamos modificando en gitHub
+
+Esto se pone interesante
